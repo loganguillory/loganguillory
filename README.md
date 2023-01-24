@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Logan Guillory
-- 👀 I’m interested in Front End Developmet
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently working on a full stack, full crud book club application
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: 
